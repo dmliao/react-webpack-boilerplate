@@ -39,6 +39,8 @@ Also build the production bundle:
 $ npm run dist
 ```
 
+Production files can be previewed via `index.html` found in the base directory.
+
 ## Tests
 
 ```sh
